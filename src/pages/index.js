@@ -1,10 +1,11 @@
 import * as React from "react"
 
-// markup
-const IndexPage = () => {
+const App = () => {
 	return (
-		<div></div>
+		<main>
+			
+		</main>
 	);
 }
 
-export default IndexPage
+export default App
