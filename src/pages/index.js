@@ -1,11 +1,9 @@
-import * as React from "react"
+import React from "react"
 
-const App = () => {
+export default function App() {
 	return (
 		<main>
-			
-		</main>
-	);
-}
 
-export default App
+		</main>
+	)
+};
