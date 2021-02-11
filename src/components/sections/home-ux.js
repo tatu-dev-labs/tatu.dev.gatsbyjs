@@ -4,7 +4,7 @@ export default function HomeUX() {
 	return (
         <section class="container flex flex-row items-start pb-20 pt-20 space-x-20 w-10/12">
             <div class="w-1/2">
-                <img src="https://tatu.dev/assets/ui-ux-desktop.svg" title="UX" />
+                <img src="https://tatu.dev/assets/ui-ux-desktop.svg" alt="UX" />
             </div>
             <div class="w-1/2">
                 <h2 class="text-4xl font-bold mb-6">UI/UX</h2>
