@@ -1,15 +1,12 @@
 import React from "react"
+import Home from "../components/sections/home";
+import HomeUX from "../components/sections/home-ux";
 
 export default function App() {
 	return (
 		<main>
-			<h1>tatu</h1>
-			<h2>Gestión integral de proyectos web</h2>
-			<div>
-				<p>UI/UX</p>
-				<p>Front-End</p>
-				<p>SEO</p>
-			</div>
+			<Home />
+			<HomeUX />
 		</main>
 	)
 };
