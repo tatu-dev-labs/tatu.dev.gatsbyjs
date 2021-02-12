@@ -1,0 +1,48 @@
+<svg id="UI_UX_Desktop" data-name="UI/UX Desktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="864.696" height="698.263" viewBox="0 0 864.696 698.263">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd126"/>
+      <stop offset="1" stop-color="#ffb935"/>
+    </linearGradient>
+  </defs>
+  <path id="Trazado_559" data-name="Trazado 559" d="M15,0H849.7a15,15,0,0,1,15,15V95.42a15,15,0,0,1-15,15H15a15,15,0,0,1-15-15V15A15,15,0,0,1,15,0Z" transform="translate(0 484.618)" fill="#e6e6e6"/>
+  <path id="Trazado_555" data-name="Trazado 555" d="M15,0H849.7a15,15,0,0,1,15,15V502.618c0,8.284-.1,16.785,0,16.244L0,518.541c.237.081,0-7.639,0-15.923V15A15,15,0,0,1,15,0Z"/>
+  <path id="Trazado_558" data-name="Trazado 558" d="M0,0H797.027V448.8H0Z" transform="translate(33.835 36.277)" fill="url(#linear-gradient)"/>
+  <g id="Grupo_23" data-name="Grupo 23" transform="translate(49.846 48.273)">
+    <rect id="Rectángulo_20" data-name="Rectángulo 20" width="474.994" height="170.693" transform="translate(52.005 84.055)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectángulo_22" data-name="Rectángulo 22" width="92.566" height="11.977" transform="translate(568.89 84.055)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectángulo_23" data-name="Rectángulo 23" width="196.112" height="11.977" transform="translate(568.89 106.47)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectángulo_24" data-name="Rectángulo 24" width="196.112" height="11.975" transform="translate(568.89 128.885)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectángulo_25" data-name="Rectángulo 25" width="196.112" height="11.975" transform="translate(568.89 151.299)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectángulo_27" data-name="Rectángulo 27" width="39.446" height="39.316" transform="translate(0.486 84.055)" fill="#012840"/>
+    <rect id="Rectángulo_28" data-name="Rectángulo 28" width="39.446" height="39.316" transform="translate(0.486 284.356)" fill="#fff" opacity="0.2"/>
+    <path id="Trazado_557" data-name="Trazado 557" d="M0,0H474.994V152.451H0Z" transform="translate(52.005 291.356)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectángulo_30" data-name="Rectángulo 30" width="765.002" height="28.449" fill="#fff" opacity="0.55"/>
+    <path id="Trazado_52" data-name="Trazado 52" d="M3556.376,673.322l9.477,5.472a1.618,1.618,0,0,1,0,2.8l-9.477,5.472a1.618,1.618,0,0,1-2.427-1.4V674.724A1.618,1.618,0,0,1,3556.376,673.322Z" transform="translate(-3270.963 -305.749)" fill="#fff" opacity="0.445"/>
+  </g>
+  <rect id="Rectángulo_32" data-name="Rectángulo 32" width="171.106" height="97.614" transform="translate(346.795 595.038)" fill="#d8d8d8"/>
+  <rect id="Rectángulo_33" data-name="Rectángulo 33" width="258.762" height="5.612" transform="translate(302.967 692.651)" fill="#e6e6e6"/>
+  <path id="Trazado_189" data-name="Trazado 189" d="M71.322,58.526A11.374,11.374,0,1,0,59.948,69.9,11.375,11.375,0,0,0,71.322,58.526Z" transform="translate(372.404 497.811)"/>
+  <circle id="Elipse_1" data-name="Elipse 1" cx="4.891" cy="4.891" r="4.891" transform="translate(427.457 14.271)" fill="#fff" opacity="0.378"/>
+  <g id="Grupo_40" data-name="Grupo 40" transform="translate(620.252 226.634)" opacity="0.95">
+    <rect id="Rectángulo_101" data-name="Rectángulo 101" width="194.596" height="158.489" fill="#7b93a0"/>
+    <rect id="Rectángulo_102" data-name="Rectángulo 102" width="162.397" height="14.886" transform="translate(15.198 22.027)" fill="#fff"/>
+    <rect id="Rectángulo_103" data-name="Rectángulo 103" width="24.152" height="4.41" transform="translate(58.165 109.21)" fill="#fff"/>
+    <rect id="Rectángulo_104" data-name="Rectángulo 104" width="45.338" height="4.41" transform="translate(87.198 109.21)" fill="#fff"/>
+    <rect id="Rectángulo_105" data-name="Rectángulo 105" width="162.397" height="16.887" transform="translate(15.198 50.895)" fill="#fff"/>
+    <path id="Trazado_54" data-name="Trazado 54" d="M9.782,0H152.615c5.4,0,9.782,3.78,9.782,8.444s-4.38,8.444-9.782,8.444H9.782C4.38,16.887,0,13.107,0,8.444S4.38,0,9.782,0Z" transform="translate(15.198 78.715)" fill="#002842"/>
+    <path id="Trazado_55" data-name="Trazado 55" d="M9.782,0H152.615c5.4,0,9.782,3.78,9.782,8.444s-4.38,8.444-9.782,8.444H9.782C4.38,16.887,0,13.107,0,8.444S4.38,0,9.782,0Z" transform="translate(15.198 121.611)" fill="#ffd226"/>
+  </g>
+  <g id="Grupo_41" data-name="Grupo 41" transform="translate(620.119 404.761)">
+    <rect id="Rectángulo_108" data-name="Rectángulo 108" width="156.851" height="26.423" transform="translate(37.878 0)" fill="#fff" opacity="0.5"/>
+    <path id="Trazado_562" data-name="Trazado 562" d="M0,0H156.851V26.423H0Z" transform="translate(37.878 43.851)" fill="#fff" opacity="0.5"/>
+    <rect id="Rectángulo_111" data-name="Rectángulo 111" width="37.878" height="26.459" transform="translate(0 0)" fill="#002842"/>
+    <path id="Trazado_563" data-name="Trazado 563" d="M0,0H37.878V26.459H0Z" transform="translate(0 43.833)" fill="#7b93a0"/>
+    <rect id="Rectángulo_114" data-name="Rectángulo 114" width="89.728" height="3.373" transform="translate(46.421 7.59)" fill="#fff"/>
+    <rect id="Rectángulo_115" data-name="Rectángulo 115" width="44.864" height="3.373" transform="translate(46.421 15.46)" fill="#fff"/>
+    <rect id="Rectángulo_116" data-name="Rectángulo 116" width="89.728" height="3.373" transform="translate(46.933 51.44)" fill="#fff"/>
+    <rect id="Rectángulo_117" data-name="Rectángulo 117" width="44.864" height="3.373" transform="translate(46.933 59.311)" fill="#fff"/>
+  </g>
+  <ellipse id="Elipse_8" data-name="Elipse 8" cx="8.401" cy="7.862" rx="8.401" ry="7.862" transform="translate(630.658 410.129)" fill="#fff"/>
+  <ellipse id="Elipse_9" data-name="Elipse 9" cx="8.401" cy="7.862" rx="8.401" ry="7.862" transform="translate(630.658 453.394)" fill="#fff"/>
+</svg>
