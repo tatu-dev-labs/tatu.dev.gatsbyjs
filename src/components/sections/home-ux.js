@@ -1,4 +1,5 @@
 import React from "react"
+import HomeUXImage from "../../assets/images/ui-ux-desktop.svg";
 
 export default function HomeUX() {
 	return (
@@ -10,7 +11,7 @@ export default function HomeUX() {
                 <p className="el-section-text-image-p">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
             </div>
             <div className="w-1/2">
-                <img className="el-section-text-image-img" src="/assets/ui-ux-desktop.svg" alt="UX" />
+                <img className="el-section-text-image-img" src={HomeUXImage} alt="UX" />
             </div>
         </section>
 	)
