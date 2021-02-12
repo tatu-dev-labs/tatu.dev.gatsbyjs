@@ -1,12 +1,21 @@
 import React from "react"
-import Home from "../components/sections/home";
+import HomeWellcome from "../components/sections/home-wellcome";
 import HomeUX from "../components/sections/home-ux";
+import HomeFrontEnd from "../components/sections/home-frontend";
+import HomeSeo from "../components/sections/home-seo";
+import Layout from "../components/layout/layout";
+import SEO from "../components/seo";
+import { graphql } from "gatsby";
+
 
 export default function App() {
 	return (
-		<main>
-			<Home />
+		<Layout>
+			<SEO />
+			<HomeWellcome />
 			<HomeUX />
-		</main>
+			<HomeFrontEnd />
+			<HomeSeo />
+		</Layout>
 	)
 };
