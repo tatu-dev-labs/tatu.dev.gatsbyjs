@@ -7,8 +7,10 @@ const typography = new Typography({
     {
       name: 'Lato',
       styles: [
+        '100',
         '300',
         '400',
+        '700',
         '900',
       ],
     },
