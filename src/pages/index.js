@@ -5,7 +5,6 @@ import HomeFrontEnd from "../components/sections/home-frontend";
 import HomeSeo from "../components/sections/home-seo";
 import Layout from "../components/layout/layout";
 import SEO from "../components/seo";
-import { graphql } from "gatsby";
 
 
 export default function App() {
