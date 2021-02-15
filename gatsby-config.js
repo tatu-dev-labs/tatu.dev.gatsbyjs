@@ -28,6 +28,7 @@ module.exports = {
         'gatsby-plugin-postcss',
         'gatsby-plugin-fontawesome-css',
         'gatsby-plugin-offline',
-        'gatsby-plugin-react-helmet'
+        'gatsby-plugin-react-helmet',
+        'gatsby-plugin-fontawesome-css'
     ]
 }
