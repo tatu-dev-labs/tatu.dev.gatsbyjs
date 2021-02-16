@@ -16,7 +16,7 @@
 
     /* title */
     .el-title {
-        @apply text-4xl font-bold mb-6;
+        @apply text-4xl font-bold text-center lg:text-left mb-6;
     }    
     /* end title */
 
