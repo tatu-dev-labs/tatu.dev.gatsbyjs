@@ -1,0 +1,3 @@
+.el-home-wellcome-text {
+    @apply text-lg lg:text-xl;
+}
