@@ -39,5 +39,8 @@
         "stylelint-config-standard": "^20.0.0",
         "tailwindcss": "^2.0.2",
         "typography": "^0.16.19"
+    },
+    "devDependencies": {
+        "stylelint-config-prettier": "^8.0.2"
     }
 }
