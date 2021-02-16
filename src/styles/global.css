@@ -4,48 +4,7 @@
 @import "tailwindcss/utilities";
 
 @layer components {
-    /* logo name */
-    .el-logo-name {
-        @apply text-secondary mb-24 text-6xl font-bold;
-    }
-
-    .el-logo-name:first-letter {
-        @apply text-8xl;
-    }
-    /* end logo name */
-
-    /* title */
-    .el-title {
-        @apply text-4xl font-bold text-center lg:text-left mb-6;
-    }    
-    /* end title */
-
-    /* section- text image */
-    .el-section-text-image-p {
-        @apply text-xl font-light text-primary mb-10;
-    }
-
-    .el-section-text-image-img {
-        @apply mb-16 lg:mt-16;
-    }
-
-    .co-section-text-image-col,
-    .bl-section-text-image.is-reverse .co-section-text-image-col {
-        @apply w-full lg:w-1/2
-    }
-
-    .bl-section-text-image {
-        @apply container flex flex-col-reverse lg:flex-row items-start pb-20 pt-20 w-10/12 lg:space-x-20;
-    }
-
-    .bl-section-text-image.is-reverse {
-        @apply flex-col-reverse lg:flex-row-reverse lg:space-x-reverse;
-    }
-    /* end section- text image */
-
-    /* footer */
-    .co-footer {
-        @apply container flex flex-row items-center justify-center pb-20 pt-20 w-10/12 space-x-20;
-    }
-    /* end footer */
+    @import "elements/all.css";    
+    @import "components/all.css";    
+    @import "blocks/all.css";    
 }
