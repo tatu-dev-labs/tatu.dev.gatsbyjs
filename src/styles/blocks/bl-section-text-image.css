@@ -8,7 +8,7 @@
 
 .co-section-text-image-col,
 .bl-section-text-image.is-reverse .co-section-text-image-col {
-    @apply w-full lg:w-1/2
+    @apply w-full lg:w-1/2;
 }
 
 .bl-section-text-image {
