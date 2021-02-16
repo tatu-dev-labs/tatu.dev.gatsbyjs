@@ -26,15 +26,20 @@
     }
 
     .el-section-text-image-img {
-        @apply mt-16;
+        @apply mb-16 lg:mt-16;
+    }
+
+    .co-section-text-image-col,
+    .bl-section-text-image.is-reverse .co-section-text-image-col {
+        @apply w-full lg:w-1/2
     }
 
     .bl-section-text-image {
-        @apply container flex flex-row items-start pb-20 pt-20 w-10/12 space-x-20;
+        @apply container flex flex-col-reverse lg:flex-row items-start pb-20 pt-20 w-10/12 lg:space-x-20;
     }
 
     .bl-section-text-image.is-reverse {
-        @apply flex-row-reverse space-x-reverse;
+        @apply flex-col-reverse lg:flex-row-reverse lg:space-x-reverse;
     }
     /* end section- text image */
 
