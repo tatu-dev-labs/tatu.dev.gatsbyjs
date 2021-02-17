@@ -1,0 +1,3 @@
+.el-title {
+    @apply text-4xl font-bold text-center text-primary lg:text-left mb-6;
+}

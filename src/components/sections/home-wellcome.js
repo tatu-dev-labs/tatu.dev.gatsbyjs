@@ -2,12 +2,11 @@ import React from "react"
 
 export default function HomeWellcome() {
 	return (
-        <section className="bl-home-wellcome h-screen w-full bg-primary text-white p-16">
-            <div>
+        <section className="bl-home-wellcome">
+            <div className="co-home-wellcome-container">
                 <h1 className="el-logo-name">tatu</h1>
-                <h2 className="mb-8 text-3xl">Subtitulo</h2>
                 <div>
-                    <p className="text-xl">Item 1, Item 2, Item 3</p>
+                    <p className="el-home-wellcome-text">Diseñador de <strong>UI/UX</strong>, experto en desarrollo <strong>Front-End</strong>, optimización <strong>SEO</strong> On Page y Técnico</p>
                 </div>
             </div>
         </section>

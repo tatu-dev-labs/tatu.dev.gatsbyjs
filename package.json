@@ -15,6 +15,11 @@
         "clean": "gatsby clean"
     },
     "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.34",
+        "@fortawesome/free-brands-svg-icons": "^5.15.2",
+        "@fortawesome/free-regular-svg-icons": "^5.15.2",
+        "@fortawesome/free-solid-svg-icons": "^5.15.2",
+        "@fortawesome/react-fontawesome": "^0.1.14",
         "autoprefixer": "^10.2.4",
         "firebase": "^8.2.7",
         "gatsby": "^2.26.1",
@@ -31,7 +36,11 @@
         "react-dom": "^16.13.1",
         "react-helmet": "^6.1.0",
         "react-typography": "^0.16.19",
+        "stylelint-config-standard": "^20.0.0",
         "tailwindcss": "^2.0.2",
         "typography": "^0.16.19"
+    },
+    "devDependencies": {
+        "stylelint-config-prettier": "^8.0.2"
     }
 }
