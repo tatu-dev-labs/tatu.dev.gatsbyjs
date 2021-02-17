@@ -3,7 +3,7 @@ import React from "react"
 export default function HomeWellcome() {
 	return (
         <section className="bl-home-wellcome">
-            <div class="co-home-wellcome-container">
+            <div className="co-home-wellcome-container">
                 <h1 className="el-logo-name">tatu</h1>
                 <h2 className="el-home-wellcome-subtitle">Hola, soy Aurelio Franco, gestor de proyectos web. </h2>
                 <div>
