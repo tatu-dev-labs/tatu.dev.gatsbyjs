@@ -9,9 +9,9 @@ export default function HomeWellcome() {
         <section className="bl-home-wellcome">
             <div class="co-home-wellcome-container">
                 <h1 className="el-logo-name">tatu</h1>
-                <h2 className="el-home-wellcome-subtitle">Hola {iconSmileBeam}, bienvenid@ a tatu.dev. </h2>
+                <h2 className="el-home-wellcome-subtitle">Hola {iconSmileBeam}, soy Aurelio Franco, gestor de proyectos web. </h2>
                 <div>
-                    <p className="el-home-wellcome-text">Gestión integral de <strong>proyectos web</strong>. <strong>UI/UX</strong>, Desarrollo <strong>Front-End</strong>, Optimización <strong>SEO</strong> On Page y Técnico.</p>
+                    <p className="el-home-wellcome-text">Diseñador de <strong>UI/UX</strong>, experto en desarrollo <strong>Front-End</strong> y Optimización <strong>SEO</strong> On Page y SEO Técnico</p>
                 </div>
             </div>
         </section>
