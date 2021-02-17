@@ -5,9 +5,9 @@ export default function HomeWellcome() {
         <section className="bl-home-wellcome">
             <div class="co-home-wellcome-container">
                 <h1 className="el-logo-name">tatu</h1>
-                <h2 className="el-home-wellcome-subtitle">Subtitulo</h2>
+                <h2 className="el-home-wellcome-subtitle">Hola, me llamo Aurelio Franco, y me encanta mi profesión.</h2>
                 <div>
-                    <p className="el-home-wellcome-text">Item 1, Item 2, Item 3</p>
+                    <p className="el-home-wellcome-text">Gestión integral de <strong>proyectos web</strong>. UI/UX, Desarrollo <strong>Front-End</strong>, Optimización SEO On Page y SEO Técnico.</p>
                 </div>
             </div>
         </section>
