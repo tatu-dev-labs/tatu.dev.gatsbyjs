@@ -1,13 +1,17 @@
 import React from "react"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faSmileBeam } from '@fortawesome/free-regular-svg-icons'
+
+const iconSmileBeam = <FontAwesomeIcon icon={faSmileBeam} />
 
 export default function HomeWellcome() {
 	return (
         <section className="bl-home-wellcome">
             <div class="co-home-wellcome-container">
                 <h1 className="el-logo-name">tatu</h1>
-                <h2 className="el-home-wellcome-subtitle">Hola, me llamo Aurelio Franco, y me encanta mi profesión.</h2>
+                <h2 className="el-home-wellcome-subtitle">Hola {iconSmileBeam}, bienvenid@ a tatu.dev. </h2>
                 <div>
-                    <p className="el-home-wellcome-text">Gestión integral de <strong>proyectos web</strong>. UI/UX, Desarrollo <strong>Front-End</strong>, Optimización SEO On Page y SEO Técnico.</p>
+                    <p className="el-home-wellcome-text">Gestión integral de <strong>proyectos web</strong>. <strong>UI/UX</strong>, Desarrollo <strong>Front-End</strong>, Optimización <strong>SEO</strong> On Page y Técnico.</p>
                 </div>
             </div>
         </section>
