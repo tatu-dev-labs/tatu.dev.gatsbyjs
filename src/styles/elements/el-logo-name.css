@@ -1,7 +1,7 @@
 .el-logo-name {
-    @apply text-secondary mb-12 text-6xl font-bold;
+	@apply text-secondary mb-12 text-6xl font-bold;
 }
 
-.el-logo-name:first-letter {
-    @apply text-8xl;
+.el-logo-name::first-letter {
+	@apply text-8xl;
 }
