@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: `tatu.dev | Diseñador UI/UX experto en Desarrollo Front-End y SEO`,
-        description: `Gestión integral de proyectos web. Diseñador de UI/UX, experto en desarrollo Front-End y Optimización SEO OnPage y SEO Técnico`,
+        title: `UI/UX, Front-End y SEO | tatu.dev`,
+        description: `Diseñador de UI/UX experto en desarrollo Front-End y Optimización SEO OnPage y SEO Técnico`,
         author: `Aurelio Franco`,
     },
     plugins: [
@@ -28,6 +28,6 @@ module.exports = {
         'gatsby-plugin-postcss',
         'gatsby-plugin-offline',
         'gatsby-plugin-react-helmet',
-        'gatsby-plugin-fontawesome-css'
+        'gatsby-plugin-fontawesome-css',
     ]
 }

@@ -1,0 +1,3 @@
+.el-menu-button {
+	@apply top-10 right-14 p-5 w-8 h-8 flex flex-row justify-center items-center fixed bg-primary text-white text-xl rounded-full hover:text-secondary focus:outline-none;
+}

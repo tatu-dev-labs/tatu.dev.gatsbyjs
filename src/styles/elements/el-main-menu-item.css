@@ -1,0 +1,7 @@
+.el-main-menu-item {
+	@apply text-2xl font-bold;
+}
+
+.el-main-menu-item a {
+	@apply hover:text-secondary;
+}

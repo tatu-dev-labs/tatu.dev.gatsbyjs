@@ -1,8 +1,7 @@
 import React from "react"
-import HomeFrontImage from "../../assets/images/front-end-desktop.svg";
+import FrontImageIntro from "../../assets/images/front-end-desktop.svg";
 
-
-export default function HomeFrontEnd() {
+export default function FrontEndIntro() {
 	return (
         <section className="bl-section-text-image is-reverse">        
             <div className="co-section-text-image-col">
@@ -12,7 +11,7 @@ export default function HomeFrontEnd() {
                 <p className="el-section-text-image-p">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</p>
             </div>
             <div className="co-section-text-image-col">
-                <img className="el-section-text-image-img" src={HomeFrontImage} alt="Front-End" />
+                <img className="el-section-text-image-img" src={FrontImageIntro} alt="Front-End" />
             </div>
         </section>
 	)

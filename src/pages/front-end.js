@@ -1,14 +1,14 @@
 import React from "react"
-import HomeWellcome from "../components/sections/home-wellcome";
 import Layout from "../components/layout/layout";
 import SEOCONF from "../components/seo-conf";
+import FrontEndIntro from "../components/sections/frontend-intro";
 
 
-export default function App() {
+export default function FrontEnd() {
 	return (
 		<Layout>
 			<SEOCONF />
-			<HomeWellcome />
+            <FrontEndIntro></FrontEndIntro>
 		</Layout>
 	)
 };
