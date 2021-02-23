@@ -5,3 +5,11 @@
 .el-logo-name::first-letter {
 	@apply text-8xl;
 }
+
+.el-logo-name-small {
+	@apply text-4xl text-primary font-bold;
+}
+
+.el-logo-name-small::first-letter {
+	@apply text-5xl;
+}
