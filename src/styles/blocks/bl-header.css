@@ -1,0 +1,3 @@
+.bl-header {
+    @apply sticky top-0 h-32 bg-white p-8 flex flex-row justify-between items-center;
+}
