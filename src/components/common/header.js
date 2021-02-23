@@ -1,19 +1,22 @@
-import React from "react"
+import React, { useContext, useEffect } from "react"
 import ButtonMenu from "./button-menu"
 import MainMenu from "./main-menu"
 
 export default function Header() {
-	return (
-        <header>
-            <div className="sticky top-0 h-32 bg-white p-8 flex flex-row justify-between items-center">
-                <div className="">
-                    tatu
-                </div>   
-            </div>	
-            
-            
-            <ButtonMenu />
-            <MainMenu />                 
-		</header>
-	)
-};                
+    useEffect(() => {
+        document.addEventListener('scroll', (e) => {
+            let scrollPosition = window.scrollY;
+            let logoNamePosition = document.getElementsByClassName('el-logo-name')[0].offsetTop;
+            if (scrollPosition >= logoNamePosition) {
+                console.log(true)
+            }
+        })
+    })
+    return (
+        <header className="bl-header">
+        <div className="el-logo-name-small">tatu</div>   
+        <ButtonMenu />
+        <MainMenu />                 
+    </header>
+    )
+};
