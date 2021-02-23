@@ -1,3 +1,7 @@
 .el-footer-icon {
 	@apply text-primary text-2xl;
 }
+
+.el-footer-icon span {
+	@apply ml-1.5 sr-only;
+}
