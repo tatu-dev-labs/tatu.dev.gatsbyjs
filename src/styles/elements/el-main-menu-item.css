@@ -5,3 +5,7 @@
 .el-main-menu-item a {
 	@apply hover:text-secondary;
 }
+
+.el-main-menu-item a.active {
+	@apply text-secondary;
+}
