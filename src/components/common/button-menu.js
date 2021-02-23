@@ -12,7 +12,7 @@ export default function ButtonMenu() {
         <WebContext.Consumer>
             {context => (
                 <React.Fragment>
-                <button className="el-menu-button" onClick={() => context.toggleMenu()}>                    
+                <button className="el-menu-button" onClick={() => context.toggleMenu()} aria-label="Botón de menú principal">                    
                     {context.isMenuVisible ? iconTimes : iconMenu}
                 </button>
                 </React.Fragment>
