@@ -1,0 +1,3 @@
+.bl-section-hero-text {
+	@apply container text-center p-10 md:p-20 lg:p-24 xl:p-28;
+}

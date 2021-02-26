@@ -1,0 +1,3 @@
+.el-hero-text-p {
+	@apply text-2xl text-primary font-light;
+}
