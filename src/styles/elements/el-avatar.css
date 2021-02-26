@@ -1,0 +1,7 @@
+.el-avatar {
+	@apply inline-block rounded-full;
+}
+
+.bl-section-hero-text .el-avatar {
+	@apply w-32;
+}
