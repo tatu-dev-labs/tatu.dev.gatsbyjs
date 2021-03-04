@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: `UI/UX, Front-End y SEO | tatu.dev`,
+        title: `Front-End, UI/UX y SEO | tatu.dev`,
         description: `Diseñador de UI/UX experto en desarrollo Front-End y Optimización SEO OnPage y SEO Técnico`,
         author: `Aurelio Franco`,
     },
