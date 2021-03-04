@@ -25,6 +25,14 @@ module.exports = {
                 pathToConfigModule: `src/utils/typography`,
             },
         },
+        {
+            resolve: 'gatsby-source-storyblok',
+            options: {
+                accessToken: 'r1XuzGgSpiDijAr8xqRtjgtt',
+                homeSlug: 'home',
+                version: process.env.NODE_ENV === 'production' ? 'published' : 'draft'
+            }
+        },
         'gatsby-plugin-postcss',
         'gatsby-plugin-offline',
         'gatsby-plugin-react-helmet',
