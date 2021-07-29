@@ -1,2 +1,2 @@
 # tatu.dev.gatsbyjs
-tatu.dev
+https://tatu.dev/
